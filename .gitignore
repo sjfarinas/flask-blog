@@ -2,3 +2,5 @@
 .env
 /venv
 /static/vendor/
+__pycache__/
+blog.db
